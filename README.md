@@ -1,1 +1,1 @@
-this is about frontend study
+This is about frontend study.
